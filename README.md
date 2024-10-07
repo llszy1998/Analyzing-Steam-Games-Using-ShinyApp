@@ -1,5 +1,7 @@
 # Steam Games Analysis Shiny App
 
+##Dataset link: https://www.kaggle.com/code/maxhaustov/steam-games-eda-with-r
+
 ## Overview
 The Shiny app our group built is an interactive tool for analyzing Steam games data, focusing on game genres, reviews, prices, and publishers. The app provides users with a visual overview of trends within the vast collection of Steam games, enabling them to explore key characteristics and understand the distribution of different genres, review dynamics, pricing, and publisher influence.
 
